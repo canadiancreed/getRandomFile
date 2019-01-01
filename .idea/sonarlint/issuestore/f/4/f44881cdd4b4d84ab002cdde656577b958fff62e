@@ -1,0 +1,14 @@
+
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÎÙåÕıÿÿÿÿ8¡ÿÆĞ€-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÎÙåÕıÿÿÿÿ8¡ÿÆĞ€-
+wsquid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(šë‘Ş8¡ÿÆĞ€-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ƒœş8¡ÿÆĞ€-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ĞŞº‹8¡ÿÆĞ€-
+dsquid:S3027*"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(¦ø‰ò8ÑœØĞ€-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÑåÔĞ€-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÎÙåÕıÿÿÿÿ8¡ÿÆĞ€-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÀÍÿÛ8¡ÿÆĞ€-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì¦¦ûüÿÿÿÿ8¡ÿÆĞ€-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.( £‰8¡ÿÆĞ€-
